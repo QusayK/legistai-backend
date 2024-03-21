@@ -10,6 +10,12 @@ source venv/bin/activate  # Activate the virtual environment (Linux/macOS)
 venv\Scripts\activate      # Activate the virtual environment (Windows)
 ```
 
+**Install Dependencies**:
+
+```bash
+pip install -r requirements.txt
+```
+
 **Start the API**:
 
 ```bash

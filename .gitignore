@@ -1,0 +1,11 @@
+__pycache__/
+.env
+venv/
+.python-version
+*.sqlite
+*.db
+htmlcov/
+.coverage
+*.log
+.idea/
+.vscode/
